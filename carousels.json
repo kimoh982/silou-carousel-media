@@ -100,16 +100,18 @@
      "look_label": "LOOK 02",
      "parts": [
       {
-       "name": "뒷밴딩 더블 핀턱 와이드 벌룬 팬츠 슬랙스 (5color)",
-       "price": 34800,
-       "original": 49000,
-       "url": "https://silou.kr/products/zg6twe4r8jbr"
-      },
-      {
        "name": "와이드 숄더 절개 니트 (11color)",
        "price": 24800,
        "original": 39000,
-       "url": "https://silou.kr/products/fvws7q77n8b7"
+       "url": "https://silou.kr/products/fvws7q77n8b7",
+       "kind": "상의"
+      },
+      {
+       "name": "뒷밴딩 더블 핀턱 와이드 벌룬 팬츠 슬랙스 (5color)",
+       "price": 34800,
+       "original": 49000,
+       "url": "https://silou.kr/products/zg6twe4r8jbr",
+       "kind": "하의"
       }
      ]
     },
@@ -123,13 +125,15 @@
        "name": "크랙 피그먼트 오버사이즈 셔츠 (9color)",
        "price": 39800,
        "original": 54000,
-       "url": "https://silou.kr/products/vaythvfq67l5"
+       "url": "https://silou.kr/products/vaythvfq67l5",
+       "kind": "상의"
       },
       {
        "name": "비조 커브드 벌룬 코튼 팬츠 (4color)",
        "price": 34800,
        "original": 49000,
-       "url": "https://silou.kr/products/2uy6d2yrhqp9"
+       "url": "https://silou.kr/products/2uy6d2yrhqp9",
+       "kind": "하의"
       }
      ]
     },
@@ -140,16 +144,18 @@
      "look_label": "LOOK 01",
      "parts": [
       {
-       "name": "크롭 스트링 얇은 러닝 바람막이 (4color)",
-       "price": 29800,
-       "original": 47000,
-       "url": "https://silou.kr/products/rtd8bm6yjtf6"
-      },
-      {
        "name": "나일론 와이드 카고 벌룬팬츠",
        "price": 29800,
        "original": 43000,
-       "url": "https://silou.kr/products/tzcqgju8puza"
+       "url": "https://silou.kr/products/tzcqgju8puza",
+       "kind": "하의"
+      },
+      {
+       "name": "크롭 스트링 얇은 러닝 바람막이 (4color)",
+       "price": 29800,
+       "original": 47000,
+       "url": "https://silou.kr/products/rtd8bm6yjtf6",
+       "kind": "아우터"
       }
      ]
     },
@@ -160,16 +166,18 @@
      "look_label": "LOOK 03",
      "parts": [
       {
-       "name": "투 턱 미니멀 와이드 슬랙스 (5color)",
-       "price": 29800,
-       "original": 46000,
-       "url": "https://silou.kr/products/9avy82h276q8"
-      },
-      {
        "name": "멜로 스티치 라운드 니트 (5color)",
        "price": 34800,
        "original": 56000,
-       "url": "https://silou.kr/products/kjppgynz6rvm"
+       "url": "https://silou.kr/products/kjppgynz6rvm",
+       "kind": "상의"
+      },
+      {
+       "name": "투 턱 미니멀 와이드 슬랙스 (5color)",
+       "price": 29800,
+       "original": 46000,
+       "url": "https://silou.kr/products/9avy82h276q8",
+       "kind": "하의"
       }
      ]
     },
@@ -180,16 +188,18 @@
      "look_label": "LOOK 02",
      "parts": [
       {
-       "name": "애시 그레이 워싱 세미와이드 데님 청바지 (1color)",
-       "price": 39800,
-       "original": 59000,
-       "url": "https://silou.kr/products/jgdvj8klbkyf"
-      },
-      {
        "name": "와플 헨리넥 티셔츠 니트 롱슬리브 (4color)",
        "price": 34800,
        "original": 47000,
-       "url": "https://silou.kr/products/b4dc56ugy2cd"
+       "url": "https://silou.kr/products/b4dc56ugy2cd",
+       "kind": "상의"
+      },
+      {
+       "name": "애시 그레이 워싱 세미와이드 데님 청바지 (1color)",
+       "price": 39800,
+       "original": 59000,
+       "url": "https://silou.kr/products/jgdvj8klbkyf",
+       "kind": "하의"
       }
      ]
     },
@@ -200,16 +210,18 @@
      "look_label": "LOOK 01",
      "parts": [
       {
-       "name": "2WAY 후드 탈부착 기모 경량패딩 (3color)",
-       "price": 49800,
-       "original": 78000,
-       "url": "https://silou.kr/products/b53kfrr7dvpv"
-      },
-      {
        "name": "논페이드 진청 생지 와이드 청바지 데님 (1 color)",
        "price": 54800,
        "original": 68000,
-       "url": "https://silou.kr/products/fjaayq7xdh7z"
+       "url": "https://silou.kr/products/fjaayq7xdh7z",
+       "kind": "하의"
+      },
+      {
+       "name": "2WAY 후드 탈부착 기모 경량패딩 (3color)",
+       "price": 49800,
+       "original": 78000,
+       "url": "https://silou.kr/products/b53kfrr7dvpv",
+       "kind": "아우터"
       }
      ]
     }
