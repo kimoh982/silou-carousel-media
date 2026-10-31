@@ -1,0 +1,92 @@
+{
+ "version": 1,
+ "carousels": {
+  "non-denim-1030": {
+   "title": "밑위 하나로 다리 길어 보임",
+   "subtitle": "비데님 와이드 팬츠 5종 · 밑위·기장·실루엣",
+   "date": "2026-10-30",
+   "items": [
+    {
+     "image": "https://raw.githubusercontent.com/kimoh982/silou-carousel-media/main/looks/slacks_w.jpg",
+     "title": "투 턱 미니멀 와이드 슬랙스",
+     "top": {
+      "name": "멜로 스티치 라운드 니트",
+      "price": 34800,
+      "original": 56000,
+      "url": "https://silou.kr/products/kjppgynz6rvm"
+     },
+     "bottom": {
+      "name": "투 턱 미니멀 와이드 슬랙스",
+      "price": 29800,
+      "original": 46000,
+      "url": "https://silou.kr/products/9avy82h276q8"
+     }
+    },
+    {
+     "image": "https://raw.githubusercontent.com/kimoh982/silou-carousel-media/main/looks/balloon.jpg",
+     "title": "뒷밴딩 더블 핀턱 와이드 벌룬",
+     "top": {
+      "name": "와이드 숄더 헨리넥 니트",
+      "price": 39800,
+      "original": 78000,
+      "url": "https://silou.kr/products/t8482n6am3fu"
+     },
+     "bottom": {
+      "name": "뒷밴딩 더블 핀턱 와이드 벌룬",
+      "price": 34800,
+      "original": 49000,
+      "url": "https://silou.kr/products/zg6twe4r8jbr"
+     }
+    },
+    {
+     "image": "https://raw.githubusercontent.com/kimoh982/silou-carousel-media/main/looks/curved.jpg",
+     "title": "비조 커브드 벌룬",
+     "top": {
+      "name": "와이드숄더 크롭 가디건",
+      "price": 29800,
+      "original": 43000,
+      "url": "https://silou.kr/products/agtpmad3urmy"
+     },
+     "bottom": {
+      "name": "비조 커브드 벌룬",
+      "price": 34800,
+      "original": 49000,
+      "url": "https://silou.kr/products/w6gffrb3qhhy"
+     }
+    },
+    {
+     "image": "https://raw.githubusercontent.com/kimoh982/silou-carousel-media/main/looks/white.jpg",
+     "title": "흰바지 세미와이드 와이드 코튼",
+     "top": {
+      "name": "1+1 와이드 숄더 절개 니트",
+      "price": 39800,
+      "original": 78000,
+      "url": "https://silou.kr/search?q=1+1+와이드+숄더+절개+니트"
+     },
+     "bottom": {
+      "name": "흰바지 세미와이드 와이드 코튼",
+      "price": 39800,
+      "original": 54000,
+      "url": "https://silou.kr/products/blvquprk55jk"
+     }
+    },
+    {
+     "image": "https://raw.githubusercontent.com/kimoh982/silou-carousel-media/main/looks/fig.jpg",
+     "title": "피그다잉 와이드 카고",
+     "top": {
+      "name": "바이커 크롭 레더자켓",
+      "price": 64800,
+      "original": 98000,
+      "url": "https://silou.kr/products/8jn36335uxen"
+     },
+     "bottom": {
+      "name": "피그다잉 와이드 카고",
+      "price": 54800,
+      "original": 74000,
+      "url": "https://silou.kr/products/zzmcg44rfant"
+     }
+    }
+   ]
+  }
+ }
+}
